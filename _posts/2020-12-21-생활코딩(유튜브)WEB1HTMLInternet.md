@@ -11,15 +11,15 @@ tags:
 
 # 마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
 ---
-# 생활코딩(유튜브) 👉 WEB1 > HTML & Internet
+## 생활코딩(유튜브) 👉 WEB1 > HTML & Internet
 
 ---
 
-- 1. HTML(HyperText Markup Language) : 웹페이지를 만드는 언어
-- 2. 에디터 설치 등 실습 환경 준비
+1. HTML(HyperText Markup Language) : 웹페이지를 만드는 언어
+2. 에디터 설치 등 실습 환경 준비
     - 코드를 작성하기 위한 에디터가 필요함 👉 Atom을 에디터로 하여 수업 진행
     - 현 시점에서 가장 인기있는 에디터를 찾으려면? 👉 구글에서 **best HTML Editor yyyy**(연도) 로 검색!
-- 3. 태그(Tags)
+3. 태그(Tags)
 
     ```html
     <strong>굵은 글씨</strong>
@@ -109,7 +109,7 @@ tags:
     **title** 👉 링크 위에 마우스 올리면 말풍선에 표시될 이름
     ```
 
-- 4. 웹 호스팅 : github page (무료)
+4. 웹 호스팅 : github page (무료)
     - repository(저장소)에 작성한 html 파일들을 업로드
     👉 Settings > GitHub Pages > Source에서 Branch를 main으로 선택한 후 Save 클릭
     👉 웹사이트 주소가 뜨고, 해당 주소를 입력하면 업로드한 html파일에 누구든 언제든 접속 가능!
