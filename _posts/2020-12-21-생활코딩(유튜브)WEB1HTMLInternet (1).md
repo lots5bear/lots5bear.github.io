@@ -43,19 +43,16 @@ toc_label: "생활코딩 - HTML & Internet"
   <img scr="이미지주소" width=300>
   ```
 
-  ```html
-  
-  부모자식과 목록
-  
+- 부모자식과 목록
   ```html
     <parent>
-    	<child></child>
+      <child></child>
     </parent>
 
     ex) <html>
-    		  <head></head>
-    		  <body></body>
-    		</html>
+    		<head></head>
+    		<body></body>
+    	  </html>
 
     		<ul> 👉 Unordered list. 넘버링 되지 않은 리스트 작성
     			<li></li>
@@ -87,21 +84,21 @@ toc_label: "생활코딩 - HTML & Internet"
     				<td>97.9%</td> 👉 3행 2열
     			</tr>
     		</table>
-  ```
+    ```
 
   ```html
   <!doctype html>
   👉 이 페이지는 html이다,란 의미. <html>보다 더 위, 맨 윗줄에 쓰이는 설명
   ```
 
-본문을 설명하는 태그들 - <head> 아래에 속하는 태그들
+- 본문을 설명하는 태그들 - <head> 아래에 속하는 태그들
 
   ```html
   <title></title> 👉 웹페이지의 창 이름에 뜨는 제목
   <meta charset="utf-8"> 👉 이 웹페이지를 utf-8 방식으로 읽도록 하는 명령
   ```
 
-링크를 표시하는 태그
+- 링크를 표시하는 태그
 
   ```html
   <a href="링크주소" target="_blank" title=""></a>
