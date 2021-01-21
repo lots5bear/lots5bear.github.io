@@ -19,7 +19,9 @@ toc_label: "생활코딩 - HTML & Internet"
 ## 2. 에디터 설치 등 실습 환경 준비
   - 코드를 작성하기 위한 에디터가 필요함 👉 Atom을 에디터로 하여 수업 진행
   - 현 시점에서 가장 인기있는 에디터를 찾으려면? 👉 구글에서 **best HTML Editor yyyy**(연도) 로 검색!
+
 ## 3. 태그(Tags)
+
 
   ```html
   <strong>굵은 글씨</strong>
@@ -42,14 +44,17 @@ toc_label: "생활코딩 - HTML & Internet"
   ```
 
   ```html
+  
   부모자식과 목록
+  
+  ```html
     <parent>
     	<child></child>
     </parent>
 
     ex) <html>
-    			<head></head>
-    			<body></body>
+    		  <head></head>
+    		  <body></body>
     		</html>
 
     		<ul> 👉 Unordered list. 넘버링 되지 않은 리스트 작성
@@ -89,16 +94,16 @@ toc_label: "생활코딩 - HTML & Internet"
   👉 이 페이지는 html이다,란 의미. <html>보다 더 위, 맨 윗줄에 쓰이는 설명
   ```
 
-  ```html
-  본문을 설명하는 태그들 - <head> 아래에 속하는 태그들
+본문을 설명하는 태그들 - <head> 아래에 속하는 태그들
 
+  ```html
   <title></title> 👉 웹페이지의 창 이름에 뜨는 제목
   <meta charset="utf-8"> 👉 이 웹페이지를 utf-8 방식으로 읽도록 하는 명령
   ```
 
-  ```html
-  링크를 표시하는 태그
+링크를 표시하는 태그
 
+  ```html
   <a href="링크주소" target="_blank" title=""></a>
 
     **a** 👉 anchor(닻)
